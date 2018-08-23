@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Static UI",
+      "status": "inprogress"
+    },
+    {
+      "id": 2,
+      "name": "Dynamic edit",
+      "status": "complete"
+    },
+    {
+      "name": "temp",
+      "status": "inprogress",
+      "id": 3
+    },
+    {
+      "name": "temp",
+      "status": "complete",
+      "id": 6
+    },
+    {
+      "name": "tempsdd",
+      "status": "inprogress",
+      "id": 7
+    },
+    {
+      "name": "tempss",
+      "status": "inprogress",
+      "id": 8
+    },
+    {
+      "name": "Adding important content value",
+      "status": "todo",
+      "id": 6486.935269905005
+    },
+    {
+      "name": "Some another important todo",
+      "status": "complete",
+      "id": 1002.1469824205819
+    },
+    {
+      "name": "Testing some todos",
+      "status": "complete",
+      "id": 200.59989809194656
+    },
+    {
+      "name": "Adding s save todo item",
+      "status": "todo",
+      "id": 8808.284072638784
+    },
+    {
+      "name": "Some new todo item",
+      "status": "todo",
+      "id": 6608.727748347192
+    },
+    {
+      "name": "Important todo values for the test",
+      "status": "todo",
+      "id": 4316.840422277104
+    }
+  ]
+}
