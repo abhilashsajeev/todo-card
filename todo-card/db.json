@@ -2,31 +2,31 @@
   "todos": [
     {
       "id": 1,
-      "name": "Static UI",
+      "name": "Complete the coding test for next week",
       "status": "complete"
     },
     {
       "id": 2,
-      "name": "Dynamic edit",
+      "name": "Update all excel sheet values",
       "status": "complete"
     },
     {
-      "name": "temp",
+      "name": "Add placeholder items for the components",
       "status": "inprogress",
       "id": 3
     },
     {
-      "name": "temp",
+      "name": "Updating values with meaningful content",
       "status": "complete",
       "id": 6
     },
     {
-      "name": "tempsdd",
+      "name": "Need to get new laptop with upgraded components",
       "status": "inprogress",
       "id": 7
     },
     {
-      "name": "tempss",
+      "name": "Test the production build",
       "status": "inprogress",
       "id": 8
     },
