@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Static UI",
-      "status": "inprogress"
+      "status": "complete"
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Adding important content value",
-      "status": "todo",
+      "status": "inprogress",
       "id": 6486.935269905005
     },
     {
@@ -59,6 +59,11 @@
       "name": "Important todo values for the test",
       "status": "todo",
       "id": 4316.840422277104
+    },
+    {
+      "name": "Testing combined run",
+      "status": "todo",
+      "id": 3274.458748936806
     }
   ]
 }
